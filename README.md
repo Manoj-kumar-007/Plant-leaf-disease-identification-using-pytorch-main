@@ -1,1 +1,2 @@
-# Plant-leaf-disease-identification-using-pytorch-main
+# Plant-leaf-disease-identification-using-pytorch
+mini project
